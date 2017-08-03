@@ -1,0 +1,169 @@
+{
+  "main": {
+    "headTitle": "Heyy...There!!",
+    "timeline": "Time Line",
+    "timeleinedes": "See The History",
+    "timeline2": "Representation of a period of time, on which important events are marked.",
+    "demography": "I'm",
+    "name": "Tijo Jozeph Thomaz",
+    "occupation": {
+      "occupation1": "Front-end Developer",
+      "occupation2": "UI/UX Developer",
+      "occupation3": "Designer"
+    },
+    "contact": "Contact",
+    "contactdes": "I'd Love To Hear From You.",
+    "scroll":"To Know More Scroll",
+    "description": "I design and program websites and web applications of all types using new Web Technologies and Frameworks",
+    "about": "“People find me to be an upbeat, self-motivated team player with excellent communication skills. For the past couple of months I have worked in Web Design & Development in Information Technology . My experience includes in designing and developing User Interfaces with end user perspective.I am knowledgefull in new web development frameworks, you can check them out in my skills.”",
+    "image": "profilepic.jpg",
+    "bio": " Current UI Developer at Pankanis Technologies a sister concern of Speridian Technologies. Versatile, reliable and efficient.",
+    "emailme": "Email Me At",
+    "email": "tijo1293@gmail.com",
+    "email1": "tijo.14mca239@mariancollege.org",
+    "email2": "tijo1293@gmail.com",
+    "phone": "+918291138676",
+    "dob": "March 12, 1993",
+    "aboutme": "More About Me",
+    "ping": "let's be in touch!!! Ping me....",
+    "location": "Where to find me",
+    "address": {
+      "street": "Poozhickad,Kudassanadu(p.o),Pandalam",
+      "city": "Pathanamthitta",
+      "state": "Kerala",
+      "zip": "689512"
+    },
+    "copyright": "Copyright © 2017 Jo",
+    "developer": "Developed by Tijo Thomas",
+    "street": " N. S. Phadke Marg,",
+    "city": "Near East-West Flyover",
+    "state": "Andheri East,Mumbai",
+    "zip": "400069",
+    "phonedemo": "Call Me At",
+    "phoneno1": "Mob: (+91) 829 1138676",
+    "phoneno2": "Mob: (+91) 701 2980410",
+    "website": "https://github.com/Trj12/joComrade",
+    "resumedownload": "https://drive.google.com/file/d/0B7cWCMeem8ZLd1E4UGUxUXU5bDg/view?usp=sharing",
+    "personalinfo": [
+      {
+        "demography": "Fullname",
+        "name": "Tijo Thomas"
+      },
+      {
+        "demography": "Birth Date",
+        "name": "March 12, 1993"
+      },
+      {
+        "demography": "Job",
+        "name": "UI/UX Developer"
+      },
+      {
+        "demography": "Website",
+        "name": "https://github.com/Trj12/joComrade"
+      },
+      {
+        "demography": "Email",
+        "name": "tijo1293@gmail.com"
+      }
+    ],
+    "skillset": [
+      {
+        "name": "HTML5",
+        "percent": "90%",
+        "className": "progress percent90"
+      },
+      {
+        "name": "CSS3",
+        "percent": "70%",
+        "className": "progress percent70"
+      },
+      {
+        "name": "AngularJS",
+        "percent": "85%",
+        "className": "progress percent85"
+      },
+      {
+        "name": "ReactJS",
+        "percent": "70%",
+        "className": "progress percent70"
+      },
+      {
+        "name": "ES6",
+        "percent": "65%",
+        "className": "progress percent65"
+      },
+      {
+        "name": "jQuery",
+        "percent": "75%",
+        "className": "progress percent75"
+      },
+      {
+        "name": "Photoshop",
+        "percent": "85%",
+        "className": "progress percent85"
+      }
+    ],
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/ThomazTjo",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "http://linkedin.com/in/tijo-thomas-47916b77",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jo1293comrade",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Trj12",
+        "className": "fa fa-github"
+      }
+    ],
+    "education": [
+      {
+        "school": "Post Graduation",
+        "degree": "Master in Computer Application",
+        "graduated": "November 2016",
+        "description": "Successfully completed MCA with distinction at Marian College Kuttikanam(Autonomous) under Mahatma Gandhi University Kerala, India"
+      },
+      {
+        "school": "Graduation",
+        "degree": "Bachelor in Computer Application",
+        "graduated": "April 2014",
+        "description": "Successfully completed BCA at Parumala Mar Gregorios College under Mahatma Gandhi University Kerala, India"
+      },
+      {
+        "school": "HSE",
+        "degree": "Higher Secondary",
+        "graduated": "May 2011",
+        "description": "Successfully completed HSE at GHSS Pandalam under Kerala State Board, India"
+      },
+      {
+        "school": "SSLC",
+        "degree": "Secondary School Course",
+        "graduated": "May 2009",
+        "description": "Successfully completed SSLC at St.Thomas EMHS Pandalam under Kerala State Board, India"
+      }
+    ],
+    "work": [
+      {
+        "company": "Pankanis Technologies",
+        "title": "UI Developer ",
+        "years": "December 2016 - Present",
+        "description": " Implementing end user perspective UI, Working with latest web development frameworks angular and react to make the company more profitable "
+      },
+      {
+        "company": "Speridian Technologies",
+        "title": "Trainee Associate",
+        "years": "Novmber 2016 - December 2016",
+        "description": "Selected by Speridian in campus drive.Completed rigorous training provided by the company on SQL & Java ,Got transfered to Pankanis Technologies Mumbai"
+      }
+    ]
+  }
+}
